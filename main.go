@@ -30,12 +30,14 @@ func parse(path string, w io.Writer) {
 
 	s := bufio.NewScanner(f)
 	for s.Scan() {
-		p := strings.Split(s.Text(), ";")
-		if len(p) != 2 {
+		p := s.Text()
+
+		i := strings.LastIndex(p, ";")
+		if i < 0 {
 			panic("unexpected row")
 		}
 
-		name, value := p[0], p[1]
+		name, value := p[0:i], p[i+1:]
 
 		k, err := strconv.ParseFloat(value, 64)
 		if err != nil {
