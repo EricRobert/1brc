@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bufio"
+	"bytes"
 	"fmt"
 	"io"
 	"math"
@@ -9,6 +9,7 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+	"syscall"
 )
 
 type station struct {
@@ -26,11 +27,29 @@ func parse(path string, w io.Writer) {
 
 	defer f.Close()
 
-	m := make(map[string]*station)
+	fi, err := f.Stat()
+	if err != nil {
+		panic(err)
+	}
 
-	s := bufio.NewScanner(f)
-	for s.Scan() {
-		p := s.Text()
+	data, err := syscall.Mmap(int(f.Fd()), 0, int(fi.Size()), syscall.PROT_READ, syscall.MAP_SHARED)
+	if err != nil {
+		panic(err)
+	}
+
+	defer syscall.Munmap(data)
+
+	m := make(map[string]*station)
+	a := 0
+
+	for {
+		b := bytes.IndexByte(data[a:], '\n')
+		if b < 0 {
+			break
+		}
+
+		p := string(data[a : a+b])
+		a += b + 1
 
 		i := strings.LastIndex(p, ";")
 		if i < 0 {
@@ -61,10 +80,6 @@ func parse(path string, w io.Writer) {
 			i.min = min(i.min, k)
 			i.max = max(i.max, k)
 		}
-	}
-
-	if err := s.Err(); err != nil {
-		panic(err)
 	}
 
 	names := make([]string, 0, len(m))
