@@ -1,0 +1,956 @@
+Aachen:-68.3/8.7/85.8
+Abhia:-27.5/-27.5/-27.5
+Abra de Ilog:72.8/72.8/72.8
+Acari:25.4/25.4/25.4
+Acatenango:-41.3/-41.3/-41.3
+Acquaviva:19.1/19.1/19.1
+Acqui Terme:-5.9/-5.9/-5.9
+Ad Dabbah:-50.9/-50.9/-50.9
+Adigoppula:46.7/46.7/46.7
+Adygeysk:-81.2/-81.2/-81.2
+Afonso Bezerra:-29.2/-29.2/-29.2
+Agdangan:-17.3/-17.3/-17.3
+Agno:20.3/20.3/20.3
+Agryz:43.3/43.3/43.3
+Ahlen:-23.8/-23.8/-23.8
+Ajka:52.9/52.9/52.9
+Akyaka:41.7/41.7/41.7
+Al Brouj:-75.6/-21.0/33.5
+Al Karnak:27.0/27.0/27.0
+Al Khmissat:-0.3/-0.3/-0.3
+Al Ḩamdānīyah:29.8/29.8/29.8
+Al ‘Amārah:-51.3/-51.3/-51.3
+Albox:-89.8/-89.8/-89.8
+Alcácer do Sal:84.8/84.8/84.8
+Alegría:-38.2/-38.2/-38.2
+Alfenas:32.6/32.6/32.6
+Alsager:2.0/2.0/2.0
+Altena:46.1/46.1/46.1
+Alto Araguaia:-99.5/-99.5/-99.5
+Alto-Cuilo:77.4/77.4/77.4
+Alucra:25.1/25.1/25.1
+Ambararatabe:-51.5/-51.5/-51.5
+Ambatomainty:-69.5/-69.5/-69.5
+Ambodiampana:-58.4/-58.4/-58.4
+Ambohimahazo:-74.3/-74.3/-74.3
+Ambolomoty:58.4/58.4/58.4
+Anatolí:-95.2/-95.2/-95.2
+Andalusia:77.2/77.2/77.2
+Andújar:1.2/1.2/1.2
+Anjoma-Ramartina:44.1/44.1/44.1
+Ankazomborona:43.0/43.0/43.0
+Ankisabe:49.3/49.3/49.3
+Annecy-le-Vieux:18.5/18.5/18.5
+Antalaha:82.4/82.4/82.4
+Anthony:-65.1/-65.1/-65.1
+Antsoha:-63.7/-63.7/-63.7
+António Enes:-84.5/-84.5/-84.5
+Aplahoué:15.7/15.7/15.7
+Apodi:-10.4/-10.4/-10.4
+Appingedam:95.4/95.4/95.4
+Aracaju:43.5/43.5/43.5
+Arakawa:-9.3/-9.3/-9.3
+Aranda de Duero:-94.3/-94.3/-94.3
+Aranzazu:51.2/51.2/51.2
+Arauá:-82.6/-82.6/-82.6
+Arbroath:-6.5/-6.5/-6.5
+Aribinda:-31.9/-31.9/-31.9
+Arnaud:-39.3/-39.3/-39.3
+Aroāli:-47.2/-47.2/-47.2
+Arsikere:-17.4/-17.4/-17.4
+Arsin:-80.7/-80.7/-80.7
+Artëmovskiy:76.8/76.8/76.8
+Aruppukkottai:67.6/67.6/67.6
+Asakura:-48.8/-48.8/-48.8
+Ataq:30.2/30.2/30.2
+Atascocita:88.6/88.6/88.6
+Atibaia:-71.6/-71.6/-71.6
+Atoyac de Álvarez:91.6/91.6/91.6
+Aubergenville:-89.9/-89.9/-89.9
+Aurisina:84.8/84.8/84.8
+Aves:90.8/90.8/90.8
+Avondale:-62.7/-62.7/-62.7
+Awara:-63.9/-63.9/-63.9
+Ayagöz:88.9/88.9/88.9
+Ayr:17.1/17.1/17.1
+Az Zabadānī:-71.2/-71.2/-71.2
+Aït Faska:34.4/34.4/34.4
+Aït Hani:-86.2/-86.2/-86.2
+Bad Gandersheim:57.3/57.3/57.3
+Bad Laasphe:19.6/19.6/19.6
+Bad Windsheim:-18.5/-18.5/-18.5
+Baeza:90.3/90.3/90.3
+Bafwasende:-41.0/-41.0/-41.0
+Baghauni:-27.1/-27.1/-27.1
+Baharly:90.2/90.2/90.2
+Bahía Blanca:55.8/55.8/55.8
+Bamora:9.0/9.0/9.0
+Ban Bang Lamung:99.2/99.2/99.2
+Ban Pa Hung:-44.0/-44.0/-44.0
+Banaue:-36.2/-36.2/-36.2
+Bani:19.2/19.2/19.2
+Bansang:-13.5/-13.5/-13.5
+Banta:-23.6/-23.6/-23.6
+Baracoa:95.9/95.9/95.9
+Baranzate:41.5/41.5/41.5
+Barwādih:84.4/84.4/84.4
+Bastak:-7.7/-7.7/-7.7
+Batagay:-68.2/-68.2/-68.2
+Batken:15.9/15.9/15.9
+Bayjī:67.4/67.4/67.4
+Baía Farta:-22.1/-22.1/-22.1
+Baía Formosa:44.8/44.8/44.8
+Beasain:-21.3/-21.3/-21.3
+Behbahān:-57.9/-57.9/-57.9
+Beidou:-74.5/-74.5/-74.5
+Bekopaka:53.3/53.3/53.3
+Beledweyne:10.3/10.3/10.3
+Belogorsk:97.8/97.8/97.8
+Ben Guerir:-64.4/-64.4/-64.4
+Bertem:-39.6/21.4/82.4
+Best:-53.7/-53.7/-53.7
+Beverwijk:23.5/23.5/23.5
+Bezerros:-49.9/-49.9/-49.9
+Bharatpur:79.7/79.7/79.7
+Bhojpur Kadīm:18.9/18.9/18.9
+Biblis:62.6/62.6/62.6
+Biddupur:41.6/41.6/41.6
+Big Spring:55.7/55.7/55.7
+Bikin:82.5/82.5/82.5
+Bilovodsk:-8.3/-8.3/-8.3
+Bilozerka:29.4/29.4/29.4
+Birāk:-83.7/-83.7/-83.7
+Blagoevgrad:33.3/33.3/33.3
+Blaj:70.2/70.2/70.2
+Blanchard:-62.7/-62.7/-62.7
+Blanquefort:-24.9/-24.9/-24.9
+Boiro:54.1/54.1/54.1
+Bolivar:-95.9/-95.9/-95.9
+Bolnisi:0.8/0.8/0.8
+Bom Jardim:21.9/21.9/21.9
+Bonyhád:-84.1/-84.1/-84.1
+Borgerhout:-84.5/-84.5/-84.5
+Borim:-85.4/-85.4/-85.4
+Bo’ness:98.5/98.5/98.5
+Bragança:41.4/41.4/41.4
+Bramhall:22.3/22.3/22.3
+Branquinha:-97.4/-97.4/-97.4
+Braslaw:-69.4/-69.4/-69.4
+Bregenz:-83.4/-83.4/-83.4
+Breza:-41.3/-41.3/-41.3
+Broadstairs:-15.2/-15.2/-15.2
+Broadstone:54.2/54.2/54.2
+Bronnitsy:-97.1/-97.1/-97.1
+Buka:71.0/71.0/71.0
+Bulisa:42.9/42.9/42.9
+Busto Arsizio:92.6/92.6/92.6
+Bình Long:-27.9/-27.9/-27.9
+Bālurghāt:39.8/39.8/39.8
+Bāri:-56.3/-56.3/-56.3
+Caboolture:58.0/58.0/58.0
+Caidat Sidi Boubker El Haj:32.4/32.4/32.4
+Caluire-et-Cuire:79.8/79.8/79.8
+Cambuí:32.7/32.7/32.7
+Canindé de São Francisco:-64.7/-53.7/-42.7
+Canóvanas:28.0/28.0/28.0
+Cao Bằng:-60.8/-60.8/-60.8
+Caparrapí:35.1/35.1/35.1
+Capitol Hill:-55.8/-55.8/-55.8
+Carson City:-62.5/-62.5/-62.5
+Casale sul Sile:-57.0/-57.0/-57.0
+Caterham:58.8/58.8/58.8
+Cavalcante:58.4/58.4/58.4
+Cazombo:-68.6/-24.9/18.6
+Chahe:-15.9/-15.9/-15.9
+Chandla:49.2/49.2/49.2
+Chandūr:-29.0/-29.0/-29.0
+Chaplynka:-89.5/-89.5/-89.5
+Charlton:-11.4/-11.4/-11.4
+Charxin:61.2/61.2/61.2
+Chaugāin:45.3/45.3/45.3
+Chaval:84.5/84.5/84.5
+Chelyabinsk:34.0/34.0/34.0
+Chengdu:-20.3/-20.3/-20.3
+Chikhli Kalān:6.3/6.3/6.3
+Chikodi:72.4/72.4/72.4
+Chilamattūru:64.9/64.9/64.9
+Chinde:80.0/80.0/80.0
+Chinnachauku:-0.6/-0.6/-0.6
+Chārakunda:16.0/16.0/16.0
+Ciudad Barrios:26.6/26.6/26.6
+Clarin:-13.0/-13.0/-13.0
+Cobram:-88.3/-88.3/-88.3
+Cold Springs:-95.5/-95.5/-95.5
+Collegedale:-62.7/-62.7/-62.7
+Colonia del Sol:-13.6/-13.6/-13.6
+Comalapa:84.7/84.7/84.7
+Conceição do Castelo:84.4/84.4/84.4
+Congleton:39.2/39.2/39.2
+Contenda:-3.9/-3.9/-3.9
+Copertino:-19.0/-19.0/-19.0
+Coronel Du Graty:43.6/43.6/43.6
+Couëron:24.5/24.5/24.5
+Crest:-58.1/-58.1/-58.1
+Crestview:-47.1/-47.1/-47.1
+Curuzú Cuatiá:6.3/6.3/6.3
+Dadeldhurā:47.0/47.0/47.0
+Dagami:-1.6/-1.6/-1.6
+Dali:-49.9/-49.9/-49.9
+Dalmatovo:-13.7/-13.7/-13.7
+Dania Beach:19.1/19.1/19.1
+Daping:-55.9/-55.9/-55.9
+Datoda:46.5/46.5/46.5
+Dayton:-57.2/-57.2/-57.2
+Degeh Bur:-31.2/-31.2/-31.2
+Deán Funes:-77.4/-77.4/-77.4
+Dharmasāgaram:-12.5/-12.5/-12.5
+Dhāmnagar:86.2/86.2/86.2
+Diang:90.6/90.6/90.6
+Dianópolis:-83.4/-83.4/-83.4
+Diest:-0.7/-0.7/-0.7
+Dighwāra:-87.6/-87.6/-87.6
+Dimāpur:-91.0/-91.0/-91.0
+Dire Dawa:90.4/90.4/90.4
+Dohazāri:44.8/44.8/44.8
+Dohta:31.9/31.9/31.9
+Domont:47.7/47.7/47.7
+Dongtai:45.9/70.1/94.4
+Donostia:-77.7/-38.1/1.5
+Donwari:18.5/18.5/18.5
+Dora:64.9/64.9/64.9
+Dourbali:-97.0/-97.0/-97.0
+Dourdan:43.6/43.6/43.6
+Durham:-77.5/-77.5/-77.5
+Dylym:-32.0/-32.0/-32.0
+Dzuunmod:-39.3/-39.3/-39.3
+East Islip:-78.1/-78.1/-78.1
+East Liverpool:37.9/37.9/37.9
+Eastham:1.3/1.3/1.3
+Echuca:-96.9/-96.9/-96.9
+Efkarpía:-56.6/-56.6/-56.6
+Ehningen:31.7/31.7/31.7
+El Banco:72.1/72.1/72.1
+El Bayadh:5.0/5.0/5.0
+El Valle del Espíritu Santo:-22.6/-22.6/-22.6
+Elland:44.1/44.1/44.1
+Elumalai:-7.2/-7.2/-7.2
+Elvas:50.6/50.6/50.6
+Encheng:17.7/17.7/17.7
+Enköping:-47.3/-47.3/-47.3
+Enns:8.3/8.3/8.3
+Ensenada:-5.1/-5.1/-5.1
+Epitacio Huerta:-26.4/-26.4/-26.4
+Erice:-58.4/-58.4/-58.4
+Eski Yakkabog‘:63.7/63.7/63.7
+Ettlingen:-64.1/-64.1/-64.1
+Ettāpur:-78.2/-78.2/-78.2
+Eupen:-65.2/-65.2/-65.2
+Evans:26.3/26.3/26.3
+Evansville:-7.2/-7.2/-7.2
+Ez Zahra:-34.4/-34.4/-34.4
+Fair Lakes:29.2/29.2/29.2
+Fairview Heights:72.1/72.1/72.1
+Fanjakana:-81.4/-81.4/-81.4
+Farap:-70.0/-70.0/-70.0
+Farmington:-91.4/-91.4/-91.4
+Farmingville:1.6/1.6/1.6
+Ferrara:-9.3/-9.3/-9.3
+Flensburg:26.0/26.0/26.0
+Flowood:-10.7/-10.7/-10.7
+Foley:-38.9/-38.9/-38.9
+Fort Atkinson:51.3/51.3/51.3
+Fort Knox:37.2/37.2/37.2
+Foumbot:18.1/18.1/18.1
+Francisville:14.2/35.6/57.1
+Fray Luis A. Beltrán:24.5/24.5/24.5
+Fukusaki:76.0/76.0/76.0
+Fully:-34.8/-34.8/-34.8
+Fulwood:-64.9/-64.9/-64.9
+Funtua:-41.3/-41.3/-41.3
+Fânzeres:6.3/6.3/6.3
+Gabela:56.3/56.3/56.3
+Gajiginhālu:-60.6/-60.6/-60.6
+Gander:-17.6/-17.6/-17.6
+Garopaba:75.3/75.3/75.3
+Gatesville:-58.9/-58.9/-58.9
+Gatumba:42.7/42.7/42.7
+Gering:-81.9/-81.9/-81.9
+Gex:-62.8/-62.8/-62.8
+Gharyān:-5.4/-5.4/-5.4
+Ghoswāri:-30.7/-30.7/-30.7
+Ghouazi:66.4/66.4/66.4
+Gillingham:-37.6/-37.6/-37.6
+Godfrey:92.4/92.4/92.4
+Goiatuba:3.1/3.1/3.1
+Gokinepalle:-89.0/-89.0/-89.0
+Goldasht:-71.8/-71.8/-71.8
+Gonfreville-l’Orcher:-42.4/-42.4/-42.4
+Gosen:4.7/4.7/4.7
+Goudomp:0.0/0.0/0.0
+Grand Turk:10.6/10.6/10.6
+Granger:69.5/69.5/69.5
+Großhansdorf:-78.1/-20.3/37.4
+Guaramirim:-92.6/-92.6/-92.6
+Guaymas:89.3/89.3/89.3
+Guaíra:4.1/4.1/4.1
+Gubakha:-96.3/-96.3/-96.3
+Guryongpo:29.7/29.7/29.7
+Guspini:80.8/80.8/80.8
+Gázi:65.0/65.0/65.0
+Götzis:-38.0/-38.0/-38.0
+Gālīkesh:-37.1/-37.1/-37.1
+Had Laaounate:83.9/83.9/83.9
+Handewitt:40.8/40.8/40.8
+Hannō:-84.3/-84.3/-84.3
+Harrodsburg:-63.4/-63.4/-63.4
+Haskah Mēnah:-57.0/-57.0/-57.0
+Hastings:56.7/56.7/56.7
+Havant:-88.1/-88.1/-88.1
+Hednesford:87.9/87.9/87.9
+Hendrik-Ido-Ambacht:-35.2/-35.2/-35.2
+Herne:-48.8/-48.8/-48.8
+Hidalgotitlán:50.5/50.5/50.5
+Hinche:97.1/97.1/97.1
+Hindoria:-39.5/-10.3/18.9
+Hiroshima:33.7/33.7/33.7
+Holladay:-10.3/-10.3/-10.3
+Holstebro:-36.8/-36.8/-36.8
+Hosūr:-89.9/-89.9/-89.9
+Houzhuang:18.9/18.9/18.9
+Hurst:-26.3/-26.3/-26.3
+Hüyük:13.5/13.5/13.5
+Hōdatsushimizu:4.9/4.9/4.9
+Ibipeba:80.8/80.8/80.8
+Ibirité:92.1/92.1/92.1
+Idanha-a-Nova:32.2/37.6/43.0
+Idstein:85.7/85.7/85.7
+Iesolo:84.7/84.7/84.7
+Iguidiy:-36.2/-36.2/-36.2
+Iizuka:90.7/90.7/90.7
+Imbaú:-20.2/-20.2/-20.2
+Indianapolis:13.6/13.6/13.6
+Inglewood:-98.9/-98.9/-98.9
+Inhuma:58.7/58.7/58.7
+Iona:-13.6/-13.6/-13.6
+Ipuiúna:-30.5/-30.5/-30.5
+Irthlingborough:-82.7/-82.7/-82.7
+Iskapalli:-38.2/5.6/49.6
+Isla Ratón:63.6/63.6/63.6
+Isāgarh:89.2/89.2/89.2
+Itacarambi:-68.3/-68.3/-68.3
+Itamukkala:-36.2/-36.2/-36.2
+Itatiaiuçu:79.5/79.5/79.5
+Itirapina:44.6/44.6/44.6
+Ituzaingó:-44.7/-44.7/-44.7
+Itá:5.7/5.7/5.7
+Itāmāti:-50.0/-50.0/-50.0
+Ixchiguán:87.1/87.1/87.1
+Ixtapa Zihuatanejo:-19.4/-19.4/-19.4
+Jaboatão:69.1/69.1/69.1
+Jacinto:99.3/99.3/99.3
+Jaguaruna:43.7/43.7/43.7
+Jakar:-33.9/-33.9/-33.9
+Jaladurgam:-75.5/-75.5/-75.5
+Jalhay:-40.6/-40.6/-40.6
+Jaltocan:75.8/75.8/75.8
+Jangy-Nookat:-36.2/-36.2/-36.2
+Jardim de Piranhas:77.4/77.4/77.4
+Jaru:-47.4/-47.4/-47.4
+Jaypul:-83.9/-83.9/-83.9
+Jedeïda:32.5/32.5/32.5
+Jeju:53.1/53.1/53.1
+Jeumont:79.9/79.9/79.9
+Jilikŭl:-1.6/-1.6/-1.6
+Jinjiang:-76.8/-76.8/-76.8
+Jinshan:87.6/87.6/87.6
+Jisr ez Zarqā:-23.7/-23.7/-23.7
+Jocotán:16.1/16.1/16.1
+Jork:-66.2/-66.2/-66.2
+José Batlle y Ordóñez:-19.3/-19.3/-19.3
+Juan de Acosta:43.9/43.9/43.9
+Juayúa:-69.6/-69.6/-69.6
+Junction City:74.6/74.6/74.6
+Kabugao:-93.8/-93.8/-93.8
+Kaech’ŏn:71.7/71.7/71.7
+Kaikkudi:-72.7/-72.7/-72.7
+Kaithāhi:1.9/1.9/1.9
+Kaji:-6.1/-6.1/-6.1
+Kalavapūdi:-53.3/-53.3/-53.3
+Kantābānji:-19.0/-19.0/-19.0
+Kara-Suu:34.8/34.8/34.8
+Karagwe:-38.3/-38.3/-38.3
+Karbinci:61.1/61.1/61.1
+Karimunjawa:28.0/28.0/28.0
+Karmana:12.5/12.5/12.5
+Katosi:49.1/49.1/49.1
+Katsepy:-19.1/-19.1/-19.1
+Kekem:80.2/80.2/80.2
+Ken Caryl:88.2/88.2/88.2
+Kenora:14.1/14.1/14.1
+Kentwood:-6.7/-6.7/-6.7
+Khaira:14.7/14.7/14.7
+Khattan:-45.2/-45.2/-45.2
+Khenichet-sur Ouerrha:81.0/81.0/81.0
+Khowrzūq:-71.7/-71.7/-71.7
+Kidal:80.4/80.4/80.4
+Kimitsu:-31.0/-31.0/-31.0
+Kiratpur Rājārām:-45.3/-45.3/-45.3
+Kirikera:-49.4/-49.4/-49.4
+Kirk of Shotts:89.3/89.3/89.3
+Kirovsk:17.6/17.6/17.6
+Kiruhura:-0.1/-0.1/-0.1
+Kishundāspur:-33.4/-26.7/-20.0
+Kishunpur:-97.8/-97.8/-97.8
+Kitamoto:2.1/2.1/2.1
+Kitgum:47.3/47.3/47.3
+Kißlegg:24.9/24.9/24.9
+Kladanj:-77.0/-77.0/-77.0
+Koboko:-31.8/-31.8/-31.8
+Kolakalūru:83.6/83.6/83.6
+Kolnād:89.9/89.9/89.9
+Korolëv:1.5/1.5/1.5
+Korsun-Shevchenkivskyi:-34.0/19.8/73.7
+Kot Shamir:24.3/24.3/24.3
+Kruševo:-7.2/-7.2/-7.2
+Kudra:-74.5/-74.5/-74.5
+Kuje:77.3/77.3/77.3
+Kukawa:13.3/13.3/13.3
+Kumārapālaiyam:-17.5/-17.5/-17.5
+Kumāravādi:63.4/63.4/63.4
+Kuppam:-52.7/-52.7/-52.7
+Kyaunggon:-92.8/-92.8/-92.8
+Kyazanga:-58.4/-58.4/-58.4
+Köse:-73.3/-73.3/-73.3
+Kāliyāganj:-51.8/-51.8/-51.8
+La Esperanza:90.7/90.7/90.7
+La Mata:19.8/19.8/19.8
+La Palma del Condado:53.2/53.2/53.2
+La Verne:-35.6/-35.6/-35.6
+Lachen:79.8/79.8/79.8
+Laghzawna:-7.8/-7.8/-7.8
+Lagoa do Carro:3.1/3.1/3.1
+Lagos de Moreno:43.9/43.9/43.9
+Lake Forest Park:99.3/99.3/99.3
+Lake Tapps:-27.6/-27.6/-27.6
+Lakinsk:33.6/33.6/33.6
+Lamía:31.3/62.4/93.6
+Lanaken:14.5/14.5/14.5
+Lanquín:31.1/31.1/31.1
+Lanyi:17.9/17.9/17.9
+Laoag:59.9/59.9/59.9
+Las Terrenas:65.8/65.8/65.8
+Lastra a Signa:-5.0/-5.0/-5.0
+Lebane:-4.0/-4.0/-4.0
+Lembok:-75.2/-75.2/-75.2
+Leticia:-86.4/-86.4/-86.4
+Leverkusen:97.8/97.8/97.8
+Lewe:12.4/12.4/12.4
+Liminka:87.6/87.6/87.6
+Linganaboyinacherla:-99.3/-99.3/-99.3
+Lisbon:53.4/53.4/53.4
+Litomyšl:-52.8/-52.8/-52.8
+Liuhe:81.0/81.0/81.0
+Long Beach:82.0/82.0/82.0
+Longbridge:4.4/4.4/4.4
+Longkoucun:-5.6/-5.6/-5.6
+Los Reyes de Juárez:-36.3/1.5/39.4
+Lower Bicutan:2.9/2.9/2.9
+Lubartów:20.1/20.1/20.1
+Luzilândia:75.9/75.9/75.9
+Lāndupdīh:74.9/74.9/74.9
+Macajuba:65.0/70.6/76.3
+Macclesfield:-74.5/-74.5/-74.5
+Madalum:47.9/47.9/47.9
+Madang:90.9/90.9/90.9
+Madanpur:94.6/94.6/94.6
+Madeley:78.2/78.2/78.2
+Magangué:-22.3/-22.3/-22.3
+Mahaditra:-77.6/-77.6/-77.6
+Maināguri:94.2/94.2/94.2
+Mai’Adua:-24.2/-24.2/-24.2
+Malanguan:51.0/51.0/51.0
+Malbork:59.5/59.5/59.5
+Mamarappatti:-89.6/-89.6/-89.6
+Manabo:-88.9/-88.9/-88.9
+Manambolo:81.5/81.5/81.5
+Manaoag:-55.9/-55.9/-55.9
+Mandaon:-11.0/-11.0/-11.0
+Mandi Dabwāli:-74.8/-74.8/-74.8
+Mandsaur:-82.8/-82.8/-82.8
+Mangha:-9.4/11.4/32.3
+Mangrāwān:-58.1/-58.1/-58.1
+Manjuyod:5.8/5.8/5.8
+Manzanillo:-19.7/18.7/57.1
+Manāwar:-33.8/11.4/56.7
+Maracaibo:11.6/11.6/11.6
+Maracha:-9.8/-9.8/-9.8
+Marale:-23.8/-23.8/-23.8
+Marano Vicentino:51.1/51.1/51.1
+Maravatío de Ocampo:-29.7/-29.7/-29.7
+Marawi City:-12.1/-12.1/-12.1
+Maraú:64.1/64.1/64.1
+Marcon:63.9/63.9/63.9
+Marechal Floriano:-48.4/-48.4/-48.4
+Marikina City:92.5/92.5/92.5
+Marilândia do Sul:-98.8/-98.8/-98.8
+Mary:-4.2/45.8/95.8
+Masanasa:-72.5/-72.5/-72.5
+Mascouche:15.4/15.4/15.4
+Mashpee:-91.6/-91.6/-91.6
+Maski:-58.9/-58.9/-58.9
+Maubin:-74.6/-74.6/-74.6
+Maxhütte-Haidhof:-93.9/-93.9/-93.9
+Mayate:86.5/86.5/86.5
+Maykop:22.8/22.8/22.8
+Mazenod:43.6/43.6/43.6
+Maīmanah:-27.1/-27.1/-27.1
+McPherson:-31.8/-31.8/-31.8
+Mecca:-38.1/-8.6/20.9
+Mecheria:-93.6/-93.6/-93.6
+Medesano:17.8/17.8/17.8
+Meerane:22.0/23.7/25.5
+Mekra:-69.1/-69.1/-69.1
+Memuro-minami:33.7/33.7/33.7
+Mennzel Bou Zelfa:-78.8/-78.8/-78.8
+Merredin:-0.2/-0.2/-0.2
+Mettingen:-81.3/-81.3/-81.3
+Mhow:-0.7/-0.7/-0.7
+Miesbach:-27.1/-12.8/1.4
+Miharu:-83.0/-83.0/-83.0
+Miho:98.0/98.0/98.0
+Milford Haven:5.0/5.0/5.0
+Mill Valley:-72.0/-72.0/-72.0
+Millau:36.3/36.3/36.3
+Miltenberg:-28.6/-28.6/-28.6
+Minas:-80.2/-80.2/-80.2
+Minturno:-51.2/-8.2/34.8
+Miranda:2.2/2.2/2.2
+Miranda do Corvo:-76.0/-76.0/-76.0
+Mirandiba:98.1/98.1/98.1
+Mirdoddi:-56.7/-56.7/-56.7
+Missoula:-83.8/-83.8/-83.8
+Mistassini:-65.5/-65.5/-65.5
+Mitane:-19.4/-19.4/-19.4
+Mitrovicë:-67.0/-67.0/-67.0
+Mitzic:-49.7/-49.7/-49.7
+Mnasra:-68.0/-68.0/-68.0
+Molinella:96.5/96.5/96.5
+Monona:13.2/13.2/13.2
+Montabaur:23.8/23.8/23.8
+Montana:10.5/10.5/10.5
+Monte di Procida:42.6/42.6/42.6
+Monteux:-24.6/-24.6/-24.6
+Montgeron:11.1/11.1/11.1
+Montgomery Village:-65.2/-6.7/51.8
+Montpellier:52.5/52.5/52.5
+Morecambe:-16.3/-16.3/-16.3
+Morro da Fumaça:58.2/58.2/58.2
+Motozintla:98.0/98.0/98.0
+Moudjbara:-66.2/-66.2/-66.2
+Moulay Abdelkader:18.5/18.5/18.5
+Mount Lavinia:20.7/20.7/20.7
+Moñitos:37.8/37.8/37.8
+Moḩammad Yār:74.8/74.8/74.8
+Mucambo:3.3/3.3/3.3
+Mulanay:66.9/66.9/66.9
+Muniz Freire:22.8/50.5/78.2
+Murtajāpur:-49.4/-49.4/-49.4
+Muscle Shoals:-3.2/-3.2/-3.2
+Mushie:68.5/68.5/68.5
+Máncora:25.2/25.2/25.2
+Mānegaon:69.8/69.8/69.8
+M’diq:58.5/58.5/58.5
+Naama:62.5/62.5/62.5
+Namegata:19.5/19.5/19.5
+Nancy:27.7/27.7/27.7
+Narasimharājapura:-61.0/-61.0/-61.0
+Narbonne:-14.9/-14.9/-14.9
+Nashville:-34.7/-34.7/-34.7
+Naugatuck:-86.5/-5.6/75.3
+Nazrēt:41.5/41.5/41.5
+Nellore:-85.9/-85.9/-85.9
+Nesārg:12.1/12.1/12.1
+New Iberia:80.7/80.7/80.7
+New Kru Town:60.5/60.5/60.5
+Ngorongoro:-15.8/-15.8/-15.8
+Nida:-83.2/-83.2/-83.2
+Nijmegen:93.9/93.9/93.9
+Nikolsk:-61.8/-61.8/-61.8
+Nikšić:-67.3/-67.3/-67.3
+Nishio:-73.2/-73.2/-73.2
+Niuchangqiao:-68.4/-68.4/-68.4
+Nolinsk:-15.7/-15.7/-15.7
+Norden:90.5/90.5/90.5
+Normandia:40.2/40.2/40.2
+North Cowichan:-61.5/-61.5/-61.5
+North Valley:76.1/76.1/76.1
+Norwich:70.1/70.1/70.1
+Notre-Dame-de-Gravenchon:-88.6/-88.6/-88.6
+Nova Varoš:69.6/69.6/69.6
+Nova Viçosa:16.1/16.1/16.1
+Nuquí:-55.7/-55.7/-55.7
+Nāmrup:-21.5/25.3/72.2
+Nāttarasankottai:4.4/5.1/5.9
+Oak Bay:-26.4/-26.4/-26.4
+Oberstdorf:-67.5/-67.5/-67.5
+Oberwil:70.6/70.6/70.6
+Ocotal:-65.6/-65.6/-65.6
+Oda:14.3/14.3/14.3
+Odorheiu Secuiesc:-28.4/-28.4/-28.4
+Okha:14.6/14.6/14.6
+Olbernhau:24.4/24.4/24.4
+Olivar Bajo:92.8/92.8/92.8
+Olmué:-19.0/-19.0/-19.0
+Olovyannaya:-58.3/-58.3/-58.3
+Omalūr:-48.6/-48.6/-48.6
+Oppicherla:50.7/50.7/50.7
+Orivesi:87.2/87.2/87.2
+Ortega:63.8/63.8/63.8
+Osimo:-69.8/-69.8/-69.8
+Osterburg:-93.9/-93.9/-93.9
+Oswego:-2.5/-2.5/-2.5
+Otjiwarongo:-60.4/-60.4/-60.4
+Ouahigouya:-55.9/-55.9/-55.9
+Oulad Friha:55.7/55.7/55.7
+Overijse:-8.3/-8.3/-8.3
+Pachuca:-50.2/-50.2/-50.2
+Paimio:-5.0/-5.0/-5.0
+Palagonia:-7.2/-7.2/-7.2
+Palatine:-41.0/-41.0/-41.0
+Palimbang:-46.5/-46.5/-46.5
+Paliā Kalān:74.0/74.0/74.0
+Pallijkarani:62.5/62.5/62.5
+Palmeiras de Goiás:86.5/86.5/86.5
+Papágos:-19.7/-19.7/-19.7
+Paracho de Verduzco:-26.6/-26.6/-26.6
+Paraúna:-47.7/-47.7/-47.7
+Parkway:90.8/90.8/90.8
+Parora:30.2/30.2/30.2
+Parsippany:29.2/29.2/29.2
+Pathrāha:-20.0/-20.0/-20.0
+Paulista:48.0/53.4/58.9
+Paulo de Faria:-43.5/-43.5/-43.5
+Peduasi:-90.4/-90.4/-90.4
+Pegnitz:98.5/98.5/98.5
+Penarth:96.7/96.7/96.7
+Perry Heights:9.4/9.4/9.4
+Perāvūrani:92.9/92.9/92.9
+Petal:-60.4/-60.4/-60.4
+Petawawa:98.9/98.9/98.9
+Petrovka:13.6/13.6/13.6
+Petua:-85.8/-85.8/-85.8
+Pfullingen:37.1/37.1/37.1
+Phalombe:46.6/46.6/46.6
+Phichit:-0.1/-0.1/-0.1
+Piaçabuçu:64.4/64.4/64.4
+Picaña:98.8/98.8/98.8
+Pierrefitte-sur-Seine:59.9/59.9/59.9
+Pili:-26.5/36.1/98.8
+Pingyuanjie:86.3/86.3/86.3
+Pira:42.8/42.8/42.8
+Plattling:-44.3/-44.3/-44.3
+Playa Grande:-7.9/-7.9/-7.9
+Pleasant Valley:-91.6/-91.6/-91.6
+Polangui:-72.9/-72.9/-72.9
+Polavaram:7.9/7.9/7.9
+Pompano Beach:5.2/5.2/5.2
+Pont-Rouge:71.8/71.8/71.8
+Poronaysk:-35.8/-35.8/-35.8
+Powdersville:3.0/3.0/3.0
+Prachuap Khiri Khan:81.9/81.9/81.9
+Prakhon Chai:96.6/96.6/96.6
+Pratāpgarh:43.6/43.6/43.6
+Presidencia Roque Sáenz Peña:1.6/1.6/1.6
+Preševo:-4.1/-4.1/-4.1
+Prievidza:44.1/44.1/44.1
+Primorsko-Akhtarsk:74.4/74.4/74.4
+Provideniya:28.8/28.8/28.8
+Puducherry:-65.1/-65.1/-65.1
+Puerto Libertador:-17.7/-17.7/-17.7
+Puthupalli:20.0/20.0/20.0
+Putla Villa de Guerrero:-69.4/-69.4/-69.4
+Pyskowice:47.4/47.4/47.4
+Pānakkudi:-26.0/-26.0/-26.0
+Pārūn:-89.6/-89.6/-89.6
+Qacha’s Nek:30.4/30.4/30.4
+Qanliko‘l:-82.8/-82.8/-82.8
+Qapqal:75.9/75.9/75.9
+Qingyang:-97.0/-97.0/-97.0
+Qrendi:-71.7/-10.8/50.0
+Quaregnon:19.2/19.2/19.2
+Quezaltepeque:-20.6/-20.6/-20.6
+Quito:45.7/45.7/45.7
+Raalte:79.0/86.3/93.7
+Ramree:20.7/20.7/20.7
+Ramsgate:-37.6/-37.6/-37.6
+Rancagua:-69.5/-69.5/-69.5
+Rancheria Payau:-68.4/-68.4/-68.4
+Rancho Arriba:41.7/41.7/41.7
+Rangra:-67.2/-46.9/-26.6
+Rasulpur Dhuria:-34.7/-34.7/-34.7
+Rawasari:-63.3/-63.3/-63.3
+Rayevskiy:-12.6/-12.6/-12.6
+Rebola:11.4/11.4/11.4
+Ringsaker:-89.3/-89.3/-89.3
+Ringsted:56.8/56.8/56.8
+River Vale:-76.0/-76.0/-76.0
+Robertsganj:32.1/32.1/32.1
+Robles:11.4/11.4/11.4
+Rogašovci:-70.2/-70.2/-70.2
+Romang:-14.0/-14.0/-14.0
+Ros Comáin:-79.0/-79.0/-79.0
+Rosenberg:-79.5/-56.4/-33.4
+Rossmoor:70.3/70.3/70.3
+Rotorua:-48.4/-48.4/-48.4
+Rouen:75.2/75.2/75.2
+Rovereto:-87.7/-87.7/-87.7
+Royal Kunia:-0.3/-0.3/-0.3
+Roßtal:-31.8/-31.8/-31.8
+Rum:-98.9/-98.9/-98.9
+Ryde:31.4/31.4/31.4
+Rāsipuram:-18.0/-18.0/-18.0
+Sabaya:5.3/5.3/5.3
+Sabbavaram:24.0/24.0/24.0
+Sach’on:-0.8/-0.8/-0.8
+Sadalgi:-35.3/-35.3/-35.3
+Safotulafai:-66.4/-66.4/-66.4
+Saint-Amand-Montrond:-84.1/-84.1/-84.1
+Saint-Barthélemy-d’Anjou:70.4/70.4/70.4
+Saint-Ouen:-58.0/-58.0/-58.0
+Salaverry:-74.3/-74.3/-74.3
+Salgado de São Félix:64.2/64.2/64.2
+Saltpond:-63.9/-63.9/-63.9
+Salvador:-65.5/-65.5/-65.5
+Samborondón:-3.2/-3.2/-3.2
+Samtredia:41.9/41.9/41.9
+San Baudilio de Llobregat:85.2/85.2/85.2
+San Bruno:-76.2/-76.2/-76.2
+San Francisco del Rincón:-52.3/-52.3/-52.3
+San Juan Guichicovi:46.5/46.5/46.5
+San Luis Talpa:-47.2/-47.2/-47.2
+San Rafael del Yuma:38.0/38.0/38.0
+San Vicente del Raspeig:43.6/43.6/43.6
+Sandhausen:-2.9/-2.9/-2.9
+Sanganakallu:-16.8/-16.8/-16.8
+Sangmélima:-28.2/-28.2/-28.2
+Santa Marta:66.7/66.7/66.7
+Santa Rita:82.6/82.6/82.6
+Santos:-24.2/-24.2/-24.2
+Sapporo:-49.0/-49.0/-49.0
+Sarapul:26.3/26.3/26.3
+Sarrebourg:46.2/46.2/46.2
+Sathmalpur:61.2/61.2/61.2
+Satravāda:-58.6/-58.6/-58.6
+Sattenapalle:-66.6/-66.6/-66.6
+Sauk Village:88.5/88.5/88.5
+Sayaxché:-82.2/-82.2/-82.2
+Saymayl:-24.0/-24.0/-24.0
+Schiffdorf:-92.1/-92.1/-92.1
+Schiltigheim:-63.3/-63.3/-63.3
+Schinnen:-76.7/-36.9/2.8
+Schneverdingen:56.4/56.4/56.4
+Schwabmünchen:-44.4/-29.0/-13.7
+Seberi:-92.8/-92.8/-92.8
+Segarai:-74.4/-60.4/-46.5
+Sekondi:-61.8/-61.8/-61.8
+Senigallia:9.8/9.8/9.8
+Seria:40.7/40.7/40.7
+Sevilla:-95.9/-95.9/-95.9
+Seysses:27.6/27.6/27.6
+Shamva:-68.6/-68.6/-68.6
+Shar:83.9/83.9/83.9
+Sharbaqty:71.4/71.4/71.4
+Shengping:14.9/14.9/14.9
+Sherbrooke:-0.7/-0.7/-0.7
+Shiroi:87.0/87.0/87.0
+Shoreview:68.5/68.5/68.5
+Shujaabad:-45.1/-20.0/5.1
+Shāmli:44.0/44.0/44.0
+Siayan:76.3/76.3/76.3
+Sibkund:52.8/52.8/52.8
+Sicuani:2.0/2.0/2.0
+Sidi Namane:-46.8/-46.8/-46.8
+Sidney:8.5/8.5/8.5
+Sierning:26.5/26.5/26.5
+Sihu:-73.5/-73.5/-73.5
+Silchar:7.8/7.8/7.8
+Siliancun:44.9/44.9/44.9
+Silleda:58.2/58.2/58.2
+Sirsilla:-48.9/-48.9/-48.9
+Sittwe:-97.5/-97.5/-97.5
+Soaserana:-35.0/-35.0/-35.0
+Sokcho:-43.8/-43.8/-43.8
+Sokone:-68.5/-68.5/-68.5
+Soldado Bartra:54.8/54.8/54.8
+Somolu:-76.8/-76.8/-76.8
+Sonpur:-29.4/-29.4/-29.4
+Sonqor:71.8/71.8/71.8
+Sorala:-42.6/-42.6/-42.6
+Sorso:87.7/87.7/87.7
+Soweto:18.2/18.2/18.2
+Spaichingen:25.4/25.4/25.4
+Spilimbergo:-80.4/-80.4/-80.4
+Spresiano:-95.5/-95.5/-95.5
+Sprimont:-9.3/-9.3/-9.3
+Star Dojran:51.9/51.9/51.9
+Stony Point:80.4/80.4/80.4
+Strzegom:-19.2/-19.2/-19.2
+Suaita:82.1/82.1/82.1
+Subiaco:-86.8/-86.8/-86.8
+Sudogda:-83.4/-83.4/-83.4
+Suhr:49.9/49.9/49.9
+Sukhsena:-5.7/-5.7/-5.7
+Sunchales:-14.3/-14.3/-14.3
+Sunny Isles Beach:-78.0/-78.0/-78.0
+Suşehri:-91.5/-91.5/-91.5
+Sveta Ana:12.1/12.1/12.1
+Svrljig:51.1/51.1/51.1
+Swan Hill:-48.8/-48.8/-48.8
+Swarzędz:16.8/16.8/16.8
+Sweden:5.4/5.4/5.4
+São Fidélis:1.5/1.5/1.5
+São Gabriel:47.2/47.2/47.2
+São José da Coroa Grande:-27.4/-27.4/-27.4
+São José de Ribamar:77.3/77.3/77.3
+São José do Campestre:99.7/99.7/99.7
+São João dos Patos:21.6/21.6/21.6
+São Pedro do Ivaí:77.9/77.9/77.9
+Sākib:50.4/50.4/50.4
+Sŏsan:38.8/38.8/38.8
+Taastrup:-93.2/-93.2/-93.2
+Tadhwa Nandpur:-40.3/-40.3/-40.3
+Tagalft:62.1/62.1/62.1
+Taggia:65.4/65.4/65.4
+Taguasco:-73.8/-73.8/-73.8
+Takad Sahel:9.9/9.9/9.9
+Takiéta:-20.2/-20.2/-20.2
+Talakag:-5.7/-5.7/-5.7
+Tall ‘Aran:5.0/5.0/5.0
+Tanakpur:57.9/57.9/57.9
+Tanjungbalai:-55.8/-55.8/-55.8
+Tanque Novo:-56.7/-56.7/-56.7
+Tari:63.5/63.5/63.5
+Taro:-47.0/-47.0/-47.0
+Teocuitatlán de Corona:16.7/16.7/16.7
+Teodoro Schmidt:91.2/91.2/91.2
+Terdāl:9.8/9.8/9.8
+Teroual:-53.8/-53.8/-53.8
+Terrace Heights:-54.9/-3.5/47.8
+Tezoatlán de Segura y Luna:-99.6/-99.6/-99.6
+Tezpur:44.7/44.7/44.7
+Thatto Heath:-5.2/-5.2/-5.2
+Tirorā:-91.6/-91.6/-91.6
+Tiruchchuli:6.5/6.5/6.5
+Tirumangalakkudi:28.3/28.3/28.3
+Tirur:90.3/90.3/90.3
+Tissa:-41.1/-41.1/-41.1
+Tlacotepec:-80.7/-80.7/-80.7
+Togamalai:-70.4/-70.4/-70.4
+Tomah:30.3/30.3/30.3
+Tomisato:-16.5/-16.5/-16.5
+Tondi:58.5/58.5/58.5
+Torrance:64.9/64.9/64.9
+Torre del Greco:34.8/34.8/34.8
+Toshloq:-91.7/-91.7/-91.7
+Toyonaka:-59.6/-59.6/-59.6
+Trebaseleghe:-93.5/-93.5/-93.5
+Trnovska Vas:83.0/83.0/83.0
+Trondheim:-98.4/-98.4/-98.4
+Tsiatajavona-Ankaratra:23.4/23.4/23.4
+Tulchyn:-96.9/-96.9/-96.9
+Turek:-23.0/-23.0/-23.0
+Tutong:-59.7/-59.7/-59.7
+Tyrnyauz:94.2/94.2/94.2
+Técpan de Galeana:-89.7/-89.7/-89.7
+Tönisvorst:-31.8/-31.8/-31.8
+Türkan:-42.3/-42.3/-42.3
+Tādif:31.1/31.1/31.1
+Třebíč:62.6/62.6/62.6
+Ubud:-91.1/-91.1/-91.1
+Uglich:2.0/2.0/2.0
+Ukiha:57.7/57.7/57.7
+Ulstein:24.4/24.4/24.4
+Ulātu:-53.7/-53.7/-53.7
+Umurlu:-36.0/-36.0/-36.0
+Uzunköprü:5.5/49.5/93.5
+Vaddepalli:-34.3/-34.3/-34.3
+Vadugapatti:43.2/43.2/43.2
+Valente:46.7/46.7/46.7
+Vasylkivka:-33.7/-33.7/-33.7
+Velsen-Zuid:90.1/90.1/90.1
+Velyka Dymerka:-45.8/-45.8/-45.8
+Vence:-21.7/-21.7/-21.7
+Venceslau Brás:-80.0/-80.0/-80.0
+Vernon Hills:24.9/24.9/24.9
+Vestmanna:-22.6/-22.6/-22.6
+Veszprém:96.3/96.3/96.3
+Victoria:-3.5/-3.5/-3.5
+Viernheim:-79.0/-79.0/-79.0
+Vigia:33.7/33.7/33.7
+Vigneux-sur-Seine:69.4/69.4/69.4
+Vikravāndi:-79.3/-37.0/5.2
+Villa Riva:61.5/61.5/61.5
+Villa Ángela:-8.9/-8.9/-8.9
+Viravāda:-81.5/-81.5/-81.5
+Vitry-le-François:-16.0/-16.0/-16.0
+Vohburg an der Donau:-3.1/-3.1/-3.1
+Voronezh:25.2/25.2/25.2
+Vostochnyy:11.0/11.0/11.0
+Vught:-44.1/-44.1/-44.1
+Vulcăneşti:-62.6/-62.6/-62.6
+Vyazemskiy:-45.2/-45.2/-45.2
+Vyazma:96.4/96.4/96.4
+Västervik:-43.2/-43.2/-43.2
+Walton-on-the-Naze:32.3/32.3/32.3
+Weißenthurm:-47.7/-47.7/-47.7
+West Drayton:35.4/35.4/35.4
+West Haven:78.1/78.1/78.1
+Wilde:59.9/59.9/59.9
+Willow Grove:65.0/65.0/65.0
+Wolverton:86.7/86.7/86.7
+Woodridge:-79.3/-79.3/-79.3
+Wutiancun:99.3/99.3/99.3
+Władysławowo:-50.8/-50.8/-50.8
+Xicheng:98.2/98.2/98.2
+Yakeshi:-82.4/-82.4/-82.4
+Yakoma:0.1/0.1/0.1
+Yame:95.5/95.5/95.5
+Yampil:96.2/96.2/96.2
+Yanai:-74.7/-74.7/-74.7
+Yangqingcun:78.6/82.7/86.9
+Yangtangxu:37.6/37.6/37.6
+Yaroslavl:0.8/0.8/0.8
+Yauco:71.5/71.5/71.5
+Yavoriv:12.0/12.0/12.0
+Yayladağı:-90.4/-90.4/-90.4
+Yelpur:-57.5/-57.5/-57.5
+Yeni Suraxanı:-78.8/-78.8/-78.8
+Yeovil:61.0/61.0/61.0
+Yichun:-2.1/-2.1/-2.1
+Youganning:-3.7/-3.7/-3.7
+Yupiltepeque:10.9/10.9/10.9
+Yŏju:-50.6/-50.6/-50.6
+Zafarwal:86.2/86.2/86.2
+Zaghouan:-21.4/-21.4/-21.4
+Zaouiet Sousse:26.4/26.4/26.4
+Zaozërsk:-69.5/-69.5/-69.5
+Zhuolu:78.2/78.2/78.2
+Ziniaré:31.3/31.3/31.3
+Zinvié:98.5/98.5/98.5
+Zongdi:87.1/87.1/87.1
+Zărneşti:0.7/0.7/0.7
+Árgos:66.0/66.0/66.0
+Çarşıbaşı:94.4/94.4/94.4
+Çayeli:-64.6/-64.6/-64.6
+Éragny:-45.1/-45.1/-45.1
+Ömerli:45.5/45.5/45.5
+Čitluk:-55.5/-55.5/-55.5
+Črenšovci:5.6/5.6/5.6
+Ōdachō-ōda:-46.7/-46.7/-46.7
+Ōmagari:34.3/34.3/34.3
+Şabbāshahr:-19.8/-19.8/-19.8
+Şereflikoçhisar:-91.8/-91.8/-91.8
+Škofja Loka:7.0/7.0/7.0
+Żory:-23.9/-23.9/-23.9
+‘Afrīn:70.9/70.9/70.9
+‘Ibrī:-22.6/-22.6/-22.6
