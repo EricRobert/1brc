@@ -18,7 +18,7 @@ Abu:-99.7/-3.3/95.6
 Abulug:-92.5/-0.1/98.7
 Aburi:-99.0/-9.9/99.6
 Abū Ghurayb:-99.6/6.9/97.7
-Acanceh:-99.8/-0.0/89.3
+Acanceh:-99.8/0.0/89.3
 Acapulco de Juárez:-99.6/-12.8/96.8
 Acari:-97.7/8.1/98.8
 Acarlar:-95.1/-4.6/95.5
@@ -172,7 +172,7 @@ Alberdi:-98.7/-1.4/95.9
 Alberique:-99.4/-2.1/96.4
 Albert:-97.6/3.1/99.1
 Alberton:-99.4/2.0/99.5
-Albertville:-99.9/-4.4/99.8
+Albertville:-99.9/-4.5/99.8
 Albignasego:-99.5/5.5/98.2
 Albox:-99.7/5.9/97.5
 Albstadt:-90.7/-8.0/95.4
@@ -232,7 +232,7 @@ Alsdorf:-99.8/6.7/99.4
 Alta Gracia:-95.4/0.9/96.8
 Altadena:-99.8/-6.0/98.2
 Altamira:-99.0/6.9/98.4
-Altena:-99.6/8.3/99.0
+Altena:-99.6/8.4/99.0
 Altenberge:-99.0/-1.1/98.5
 Altepexi:-98.4/7.4/97.8
 Altmünster:-99.6/-7.5/93.9
@@ -579,7 +579,7 @@ Ayagöz:-98.6/-1.6/98.9
 Ayaş:-99.4/4.2/95.2
 Aylesbury:-99.3/1.4/98.1
 Ayolas:-97.5/0.9/97.8
-Ayr:-99.6/-1.8/92.3
+Ayr:-99.6/-1.9/92.3
 Ayt Mohamed:-99.2/-0.4/98.8
 Ayvacık:-98.6/-11.1/97.4
 Az Zabadānī:-98.2/-0.1/96.5
@@ -767,7 +767,7 @@ Barclayville:-98.8/7.1/99.7
 Barddhamān:-99.1/-0.6/95.9
 Bareilly:-99.6/0.0/97.7
 Barendrecht:-98.8/-6.4/99.6
-Baretha:-99.3/-0.0/98.8
+Baretha:-99.3/0.0/98.8
 Bargarh:-98.4/-2.3/96.8
 Bargas:-98.4/5.8/97.2
 Bargoed:-97.6/4.3/99.5
@@ -831,7 +831,7 @@ Bay Village:-93.7/1.5/98.7
 Baybay:-95.3/-0.3/98.0
 Bayjī:-99.2/-10.8/97.8
 Baykan:-98.9/-2.9/96.4
-Bayou Blue:-99.8/-0.0/98.3
+Bayou Blue:-99.8/0.0/98.3
 Bayport:-96.9/1.1/94.4
 Baza:-99.9/1.8/96.5
 Bazhajiemicun:-99.0/0.1/98.6
@@ -860,11 +860,11 @@ Beek en Donk:-99.6/-1.8/98.6
 Beelitz:-96.6/0.4/96.6
 Beernem:-99.2/1.9/97.2
 Beeston:-98.1/1.1/96.6
-Befandefa:-99.1/5.9/99.2
+Befandefa:-99.1/6.0/99.2
 Begampur:-98.3/1.3/95.4
 Begowāl:-99.9/-1.0/99.4
 Behbahān:-99.9/1.8/97.4
-Behenjy:-99.8/-0.0/97.3
+Behenjy:-99.8/0.0/97.3
 Beidou:-98.5/1.9/99.2
 Beihai:-96.4/-1.9/96.8
 Beiwanglizhen:-99.8/12.3/98.8
@@ -926,7 +926,7 @@ Benton Harbor:-99.5/-2.0/97.7
 Bentota:-99.0/-2.5/99.3
 Beočin:-95.2/-1.8/94.4
 Beppu:-96.3/-4.5/97.6
-Berbera:-98.5/10.5/99.7
+Berbera:-98.5/10.6/99.7
 Berdsk:-98.4/2.4/99.3
 Berezivka:-94.8/4.4/99.9
 Bergneustadt:-99.7/-1.8/94.1
@@ -952,7 +952,7 @@ Bethesda:-99.0/-3.1/99.4
 Bethpage:-99.2/-7.5/97.7
 Betim:-99.8/-3.4/99.3
 Betmangala:-97.8/-6.7/99.6
-Betrandraka:-98.2/-13.8/95.4
+Betrandraka:-98.2/-13.9/95.4
 Betsiaka:-99.3/-5.6/89.1
 Betânia:-99.2/4.2/99.4
 Beur:-97.9/0.6/99.1
@@ -982,7 +982,7 @@ Bhojpur Kadīm:-99.5/3.0/97.5
 Bhulath Gharbi:-95.3/-0.7/95.2
 Bhāgsar:-99.2/10.2/97.6
 Bhāndāria:-98.1/-2.7/98.1
-Bhānukumāri:-99.2/-2.5/99.6
+Bhānukumāri:-99.2/-2.6/99.6
 Bhānuvalli:-98.8/1.1/99.4
 Biarritz:-99.7/-3.0/95.2
 Biassono:-98.3/-5.2/96.6
@@ -1051,7 +1051,7 @@ Blagodarnyy:-99.7/-12.6/97.5
 Blagoevgrad:-97.9/8.3/98.3
 Blaj:-93.6/10.4/98.9
 Blanchard:-99.6/8.8/99.3
-Blankenfelde:-98.7/-0.0/97.5
+Blankenfelde:-98.7/0.0/97.5
 Blanquefort:-99.4/-6.5/99.0
 Blansko:-93.0/4.1/98.3
 Blaricum:-99.1/-3.3/99.6
@@ -1118,7 +1118,7 @@ Bontang:-96.5/11.6/98.6
 Bonyhád:-99.5/7.0/90.6
 Bonāb:-99.4/-2.5/93.5
 Boo:-97.6/2.4/97.6
-Boom:-97.9/-0.0/98.9
+Boom:-97.9/0.0/98.9
 Boonton:-98.0/-2.3/99.6
 Boorama:-99.6/-8.4/98.8
 Bora:-97.7/-1.6/97.3
@@ -1126,11 +1126,11 @@ Borgentreich:-99.2/-9.4/99.7
 Borger:-95.7/6.0/95.1
 Borgerhout:-99.1/4.9/99.7
 Boriguma:-98.3/1.7/99.6
-Borim:-98.0/-0.0/99.1
+Borim:-98.0/0.0/99.1
 Borna:-80.4/5.6/98.9
 Borodino:-95.1/-3.7/98.6
 Borovichi:-98.7/-2.1/97.5
-Boryeong:-98.8/-0.0/98.3
+Boryeong:-98.8/0.0/98.3
 Borūjen:-99.6/1.1/99.7
 Bosanska Krupa:-99.7/2.5/97.0
 Boscombe:-99.1/-0.4/98.0
@@ -1219,7 +1219,7 @@ Bromley:-99.8/-0.2/99.8
 Bromsgrove:-99.8/0.5/99.8
 Bronnitsy:-97.5/-3.2/97.3
 Brookhaven:-96.9/14.4/97.9
-Brookings:-97.4/-0.0/99.2
+Brookings:-97.4/0.0/99.2
 Brooklyn Park:-97.4/0.0/98.0
 Brookside:-96.9/12.3/97.9
 Broomfield:-93.6/2.0/92.9
@@ -1449,7 +1449,7 @@ Caorle:-98.3/-6.0/99.8
 Capalonga:-94.9/5.3/98.1
 Caparrapí:-99.9/0.3/99.4
 Cape Town:-99.7/1.7/99.6
-Capela do Alto Alegre:-96.7/-0.0/96.6
+Capela do Alto Alegre:-96.7/0.0/96.6
 Capelle aan den IJssel:-98.4/-4.4/99.6
 Capellen:-98.6/0.9/98.3
 Capinota:-99.6/-4.8/98.5
@@ -1635,7 +1635,7 @@ Cherry Hill Mall:-98.3/-2.4/92.8
 Cherryland:-96.5/-1.6/98.9
 Cherskiy:-98.3/-7.8/99.5
 Chester:-99.3/-2.1/99.4
-Chester-le-Street:-99.0/-0.0/99.3
+Chester-le-Street:-99.0/0.0/99.3
 Chestermere:-97.1/-0.6/96.8
 Chesterton:-98.9/-9.6/96.6
 Chestnut Ridge:-99.5/3.1/99.8
@@ -1962,7 +1962,7 @@ Daitōchō:-97.9/0.1/99.9
 Daiwanishi:-98.1/-3.8/97.6
 Dalby:-98.6/-10.7/99.8
 Dale City:-99.1/-2.6/97.5
-Dali:-98.9/-0.0/99.1
+Dali:-98.9/0.0/99.1
 Daljā:-98.9/0.6/93.7
 Dalmatovo:-99.7/3.2/94.2
 Dalmine:-99.0/2.5/99.8
@@ -2216,7 +2216,7 @@ Dunfermline:-99.9/-4.8/96.9
 Dupax Del Norte:-99.0/8.6/96.2
 Dupnitsa:-98.7/-0.2/97.5
 Durban:-99.7/-9.6/99.4
-Durgi:-99.7/-0.0/99.0
+Durgi:-99.7/0.0/99.0
 Durgāpur:-99.6/-3.1/99.1
 Durham:-99.6/-11.4/98.4
 Duzhuang:-98.5/-8.1/99.3
@@ -2244,7 +2244,7 @@ East Chicago:-96.9/-10.4/98.3
 East Fishkill:-96.1/4.9/98.4
 East Grand Forks:-96.7/-5.0/99.9
 East Greenbush:-99.7/10.9/98.4
-East Islip:-99.8/-0.0/98.8
+East Islip:-99.8/0.0/98.8
 East Liverpool:-98.2/1.8/99.5
 East London:-95.3/3.5/97.8
 East Palo Alto:-99.7/6.6/98.7
@@ -2904,7 +2904,7 @@ Gurgaon:-97.4/-9.4/97.1
 Guria:-99.8/2.1/99.8
 Gurupi:-99.3/-2.9/99.6
 Guruzāla:-95.0/-5.0/99.0
-Guryongpo:-99.5/-0.0/99.1
+Guryongpo:-99.5/0.0/99.1
 Gusev:-98.8/0.6/97.7
 Guspini:-99.4/-2.8/99.8
 Guthrie:-96.3/-3.6/99.5
@@ -2970,7 +2970,7 @@ Halden:-99.1/6.7/99.9
 Halfeti:-97.6/3.5/98.0
 Halfmoon:-99.0/-1.4/98.6
 Halge:-99.0/1.3/99.5
-Halle:-98.4/-0.0/99.4
+Halle:-98.4/0.0/99.4
 Hamadān:-99.6/-2.1/94.0
 Hambühren:-98.2/5.5/99.8
 Hamden:-99.7/-2.8/95.0
@@ -2978,7 +2978,7 @@ Hamilton Township:-99.4/2.4/99.4
 Hamm:-98.0/11.1/99.7
 Hammam Sousse:-99.0/7.1/97.3
 Hamme:-95.6/1.0/99.9
-Hammelburg:-97.6/-0.0/99.2
+Hammelburg:-97.6/0.0/99.2
 Hamtic:-99.9/4.2/98.2
 Hanam:-99.6/-5.9/98.3
 Hanamaki Onsen:-96.0/2.0/97.1
@@ -3041,7 +3041,7 @@ Heiligenhafen:-97.8/11.1/98.0
 Heilsbronn:-97.4/-1.1/98.5
 Heinsberg:-98.9/-0.3/98.4
 Heishanzuicun:-97.2/0.7/99.1
-Hejamādi:-97.7/-0.0/99.3
+Hejamādi:-97.7/0.0/99.3
 Hekinan:-98.4/-10.0/98.8
 Helena:-99.9/-5.2/97.9
 Helena Valley West Central:-97.1/2.1/89.5
@@ -3056,7 +3056,7 @@ Hendersonville:-96.6/-2.7/98.0
 Hendon:-98.8/7.4/99.2
 Hendrik-Ido-Ambacht:-98.5/-1.0/98.8
 Hengkou:-96.1/-5.5/97.9
-Hengshuicun:-98.5/-0.0/98.9
+Hengshuicun:-98.5/0.0/98.9
 Hengyang:-95.2/2.3/99.1
 Hennebont:-98.9/-3.0/96.5
 Henstedt-Ulzburg:-98.5/5.8/99.5
@@ -3298,7 +3298,7 @@ Imanombo:-98.9/5.2/98.9
 Imaruí:-98.6/3.4/95.8
 Imbaú:-94.2/-5.0/98.8
 Imerimandroso:-99.9/-0.8/97.5
-Imi-n-Tanout:-99.8/-2.3/93.4
+Imi-n-Tanout:-99.8/-2.4/93.4
 Imielin:-99.1/-0.6/99.1
 Imperial:-98.9/0.5/99.8
 Imperial Beach:-98.7/1.1/99.1
@@ -3418,7 +3418,7 @@ Jaboticatubas:-99.6/5.1/93.6
 Jacaltenango:-97.4/6.3/99.7
 Jacareí:-94.6/2.1/99.2
 Jacinto:-99.7/0.6/99.3
-Jacinto City:-97.8/-0.0/98.5
+Jacinto City:-97.8/0.0/98.5
 Jagannāthpur:-98.2/2.6/99.2
 Jagodina:-96.6/3.5/99.2
 Jaguaribara:-99.8/2.5/98.7
@@ -3483,7 +3483,7 @@ Jesús María:-95.3/0.5/99.1
 Jethuli:-96.4/7.7/99.4
 Jeumont:-97.6/-1.6/98.8
 Jevargi:-95.7/-5.2/97.6
-Jever:-96.5/4.0/96.0
+Jever:-96.5/4.1/96.0
 Jeypore:-94.9/4.1/97.8
 Jhakhra:-99.0/2.1/97.7
 Jhanjhārpur:-98.7/15.9/99.0
@@ -3614,7 +3614,7 @@ Kalanaur:-99.9/-0.5/98.8
 Kalanchak:-99.3/1.4/96.9
 Kalanivāsal:-98.2/5.0/99.6
 Kalavai:-99.0/-3.7/97.6
-Kalavapūdi:-83.2/-0.1/93.2
+Kalavapūdi:-83.2/-0.2/93.2
 Kalawit:-99.5/-10.1/99.3
 Kaldsletta:-98.5/3.9/99.6
 Kaler:-99.2/2.9/98.5
@@ -3837,11 +3837,11 @@ Kilchberg:-99.5/2.0/98.5
 Kilindoni:-99.4/-4.8/97.2
 Killarney:-99.8/-1.6/99.3
 Kilānkundal:-96.8/8.5/98.8
-Kimba:-99.1/-0.0/99.5
+Kimba:-99.1/0.0/99.5
 Kimitsu:-98.6/11.7/99.6
 Kineshma:-99.3/3.8/98.2
 King of Prussia:-95.4/-4.0/99.3
-Kingersheim:-96.4/-0.0/96.8
+Kingersheim:-96.4/0.0/96.8
 Kings Grant:-96.7/3.1/95.7
 Kings Park West:-98.2/-0.5/98.9
 Kingsteignton:-94.9/6.2/99.3
@@ -3893,7 +3893,7 @@ Knemis Dades:-99.5/-4.6/99.7
 Knezha:-98.3/-8.5/98.5
 Knokke-Heist:-98.4/-7.1/98.8
 Kobarid:-99.4/1.0/97.4
-Kobayashi:-99.6/-0.0/98.4
+Kobayashi:-99.6/0.0/98.4
 Koboko:-99.4/0.9/99.6
 Kobyłka:-89.1/-0.6/99.2
 Koceljeva:-99.6/-2.6/99.7
@@ -4088,7 +4088,7 @@ Köniz:-99.9/8.5/98.9
 Köping:-99.9/-7.5/99.6
 Köse:-95.6/-1.6/99.7
 Künzell:-99.2/-0.2/97.9
-Küsnacht:-97.7/-2.9/97.0
+Küsnacht:-97.7/-3.0/97.0
 Küssnacht:-99.8/-10.1/96.8
 Kāliganj:-96.5/-5.0/98.3
 Kālikāpur:-99.8/-4.5/98.6
@@ -4148,7 +4148,7 @@ La Troncal:-96.5/-5.2/98.9
 La Tuque:-99.2/-5.4/94.6
 La Valette-du-Var:-99.8/2.0/97.5
 La Verne:-95.0/-3.6/99.5
-Laatatra:-98.2/-0.0/99.5
+Laatatra:-98.2/0.0/99.5
 Labasa:-99.8/-2.2/99.0
 Labason:-99.8/5.0/99.4
 Labinsk:-97.8/-10.0/97.9
@@ -4280,7 +4280,7 @@ Leichi:-99.5/-1.9/99.6
 Leigh-on-Sea:-98.3/1.8/99.7
 Leimen:-96.8/0.6/94.4
 Leinfelden-Echterdingen:-97.4/-3.1/97.6
-Leixlip:-99.4/-0.0/99.7
+Leixlip:-99.4/0.0/99.7
 Lembok:-95.3/0.0/99.8
 Lemery:-99.8/3.5/99.3
 Lempäälä:-98.1/1.6/96.1
@@ -4332,13 +4332,13 @@ Lindon:-99.5/-9.3/90.6
 Linfen:-99.4/-1.1/99.2
 Lingampalli:-99.0/5.9/98.8
 Linganaboyinacherla:-99.3/1.7/99.3
-Linganore:-99.6/-0.0/93.8
+Linganore:-99.6/0.0/93.8
 Linghai:-98.2/5.4/99.6
 Lingig:-99.8/-0.8/98.9
 Lingtang:-98.1/-3.2/98.0
 Lingyuan:-98.5/-6.4/95.6
 Linkou:-95.9/-9.1/97.1
-Linlithgow:-98.6/-0.0/99.7
+Linlithgow:-98.6/0.0/99.7
 Lino Lakes:-99.5/-12.1/96.7
 Linthicum:-96.7/-0.4/98.8
 Lin’an:-99.7/0.7/98.6
@@ -4354,7 +4354,7 @@ Littleborough:-95.2/1.4/97.4
 Littlehampton:-95.9/-0.7/94.0
 Littleport:-99.6/-1.3/93.3
 Liuhe:-98.7/-5.9/96.5
-Liuquan:-98.6/-0.0/97.9
+Liuquan:-98.6/0.0/97.9
 Liushi:-99.6/-6.6/98.9
 Liushui:-96.7/-5.0/98.5
 Live Oak:-95.8/10.9/99.9
@@ -4382,7 +4382,7 @@ Long Beach:-99.2/7.2/98.5
 Long Branch:-98.4/-1.5/99.6
 Long Bình:-98.7/-14.2/99.3
 Longbenton:-95.6/-7.9/95.8
-Longbridge:-97.4/-0.0/97.1
+Longbridge:-97.4/0.0/97.1
 Longjin:-95.8/-8.4/96.9
 Longkeng:-96.8/-1.8/99.1
 Longkoucun:-97.5/5.3/98.8
@@ -4431,7 +4431,7 @@ Lower Saucon:-97.1/-3.3/97.2
 Lowton:-99.0/2.9/99.5
 Loyish Shaharchasi:-99.7/-0.9/98.6
 Luancheng:-99.7/-0.5/96.4
-Luanda:-99.6/-0.0/96.2
+Luanda:-99.6/0.0/96.2
 Luanzhou:-99.1/-7.2/98.7
 Luau:-97.1/-7.5/98.3
 Lubartów:-98.6/-9.8/92.8
@@ -4565,7 +4565,7 @@ Maihma Sarja:-98.7/-1.4/92.5
 Mailapur:-96.9/4.1/98.5
 Mailiao:-99.8/-1.8/94.8
 Mainaschaff:-97.4/7.6/98.3
-Mainburg:-98.1/-0.0/98.2
+Mainburg:-98.1/0.0/98.2
 Mainvilliers:-95.2/7.9/99.6
 Maināguri:-95.8/9.9/99.6
 Maisaram:-98.2/-6.7/99.0
@@ -4608,7 +4608,7 @@ Malo Crniće:-98.2/2.4/96.9
 Malverne:-93.3/2.1/99.0
 Malārd:-98.0/3.8/99.8
 Mamadysh:-99.0/-4.7/96.2
-Mamarappatti:-99.6/0.2/97.9
+Mamarappatti:-99.6/0.3/97.9
 Mamburao:-98.6/0.1/98.6
 Mamun:-92.9/4.7/99.0
 Mamungan:-98.1/3.2/92.3
@@ -4626,7 +4626,7 @@ Mananjary:-99.5/2.9/98.9
 Manaoag:-98.9/1.5/99.1
 Manari:-99.5/-5.5/96.0
 Manavgat:-96.2/-15.8/97.9
-Manbij:-98.6/-0.0/98.6
+Manbij:-98.6/0.0/98.6
 Manchester:-97.9/9.6/99.8
 Manching:-91.9/8.5/97.3
 Mandaguaçu:-86.0/7.8/98.2
@@ -4797,7 +4797,7 @@ Mawkanin:-97.0/3.0/98.6
 Mawlaik:-97.9/4.2/99.9
 Maxcanú:-97.9/10.0/95.9
 Maxhütte-Haidhof:-93.9/0.7/99.4
-Mayarí:-96.2/-0.0/99.2
+Mayarí:-96.2/0.0/99.2
 Mayate:-99.4/-3.0/99.0
 Maydolong:-96.5/-1.7/98.9
 Mayfield:-97.1/0.5/96.9
@@ -4818,7 +4818,7 @@ Mbandjok:-96.5/0.9/95.3
 Mbouda:-92.9/2.5/98.1
 Mbuji-Mayi:-97.4/5.2/99.2
 McComb:-96.1/6.4/98.0
-McDonough:-98.9/-6.9/94.1
+McDonough:-98.9/-7.0/94.1
 McHenry:-99.1/-6.3/98.1
 McMinnville:-99.4/-0.3/97.4
 McNair:-99.0/-4.0/99.1
@@ -4882,7 +4882,7 @@ Merrick:-95.8/6.1/99.6
 Merrifield:-98.1/-3.8/98.8
 Merrill:-97.8/-6.6/98.9
 Mersin:-97.8/1.0/99.8
-Merthyr Tudful:-99.1/-12.0/98.8
+Merthyr Tudful:-99.1/-12.1/98.8
 Merzifon:-99.3/0.5/99.5
 Mesetas:-97.6/-0.7/99.7
 Messias:-99.9/1.5/97.9
@@ -4913,7 +4913,7 @@ Micoud:-99.4/6.2/98.6
 Midalt:-98.6/5.4/99.7
 Midar:-98.6/-7.2/99.4
 Middelkerke:-99.5/-15.8/99.5
-Middle:-99.6/-0.0/97.5
+Middle:-99.6/0.0/97.5
 Middle River:-99.2/-2.3/99.8
 Middle Smithfield:-98.7/-3.2/98.1
 Middleburg:-91.7/2.1/96.2
@@ -4949,7 +4949,7 @@ Minas de Matahambre:-94.6/-6.5/98.7
 Minbya:-99.8/-3.1/99.5
 Minden:-96.1/11.3/99.8
 Mineral Wells:-96.0/-8.5/98.9
-Mineral de Angangueo:-96.0/-4.4/99.6
+Mineral de Angangueo:-96.0/-4.5/99.6
 Mingguang:-98.9/-1.7/97.6
 Minneapolis:-97.0/0.4/96.6
 Minobu:-97.2/4.0/98.0
@@ -4966,7 +4966,7 @@ Mirandópolis:-99.6/-1.3/98.7
 Mirante do Paranapanema:-96.3/2.5/99.6
 Miraí:-99.2/-6.9/94.2
 Mirdoddi:-99.6/-0.2/98.2
-Mirinzal:-96.1/11.4/98.0
+Mirinzal:-96.1/11.5/98.0
 Mirpur Khas:-99.3/-5.1/94.0
 Mirzānagar:-99.0/-3.4/99.0
 Mishawaka:-99.8/-2.2/98.8
@@ -5067,7 +5067,7 @@ Montegiardino:-98.1/7.2/96.4
 Montego Bay:-92.3/-7.9/99.0
 Montelíbano:-98.1/-6.1/95.8
 Montemorelos:-99.1/5.7/98.0
-Montepuez:-99.3/-0.0/98.0
+Montepuez:-99.3/0.0/98.0
 Monterey:-98.7/-2.8/97.7
 Monterotondo:-97.9/-0.7/98.7
 Montes Claros:-98.4/-1.4/99.6
@@ -5169,7 +5169,7 @@ Murfreesboro:-95.3/-6.7/98.5
 Muri:-99.4/0.6/91.2
 Muriaé:-99.3/3.1/98.5
 Muritiba:-98.2/0.7/98.3
-Murmansk:-99.1/-0.0/99.9
+Murmansk:-99.1/0.0/99.9
 Murray Bridge:-99.9/6.3/94.6
 Murree:-98.8/-5.3/94.6
 Murska Sobota:-97.1/4.3/94.4
@@ -5322,7 +5322,7 @@ Nauheim:-95.6/1.7/98.0
 Nautan Dube:-99.2/6.4/98.7
 Navadwīp:-99.4/1.4/96.9
 Navalmoral de la Mata:-99.6/-2.6/94.9
-Navalpattu:-98.3/-0.0/99.5
+Navalpattu:-98.3/0.0/99.5
 Navapolatsk:-96.9/9.0/99.3
 Navarre:-99.7/-5.3/97.8
 Navelim:-98.7/5.4/99.3
@@ -5367,7 +5367,7 @@ Netivot:-98.8/6.8/90.3
 Nettādahalli:-99.4/-8.9/93.3
 Neu Bleckede:-98.8/0.3/98.6
 Neu-Anspach:-98.7/2.6/97.0
-Neu-Ulm:-98.5/-0.0/98.3
+Neu-Ulm:-98.5/0.0/98.3
 Neuchâtel:-98.6/13.9/98.8
 Neuenkirchen:-93.4/0.4/96.4
 Neuhaus am Rennweg:-98.5/-5.8/99.7
@@ -5389,7 +5389,7 @@ New Westminster:-99.0/0.6/98.6
 Newberry:-98.0/-2.1/99.6
 Newburn:-99.6/-5.7/98.8
 Newfane:-95.0/5.6/96.8
-Newhaven:-98.6/-0.0/99.5
+Newhaven:-98.6/0.0/99.5
 Newington Forest:-99.5/-10.6/98.3
 Newport News:-97.1/12.2/98.8
 Newport Pagnell:-99.9/4.5/99.7
@@ -5520,7 +5520,7 @@ Numazu:-97.9/-14.7/95.2
 Nunna:-99.7/1.8/99.6
 Nuquí:-98.5/-3.3/99.5
 Nurmo:-99.5/-12.4/98.4
-Nuuk:-97.6/0.5/98.7
+Nuuk:-97.6/0.6/98.7
 Nuvem:-97.6/-4.1/93.3
 Nyandoma:-99.2/-1.1/97.6
 Nybro:-98.2/-2.1/94.1
@@ -5563,7 +5563,7 @@ Oakland Park:-96.0/8.7/97.3
 Oatlands:-99.6/-1.8/97.7
 Oberkirch:-97.5/-3.6/99.3
 Obernburg am Main:-99.0/0.8/99.6
-Oberschleißheim:-99.3/-1.3/97.5
+Oberschleißheim:-99.3/-1.4/97.5
 Oberstdorf:-96.0/2.9/99.8
 Oberwil:-99.6/-6.0/98.0
 Obihiro:-97.6/3.5/99.0
@@ -5585,7 +5585,7 @@ Odaipatti:-95.6/-1.9/98.6
 Odatturai:-99.3/2.0/99.4
 Odayārpatti:-97.8/0.1/99.0
 Odorheiu Secuiesc:-94.8/8.0/99.8
-Odžak:-98.5/-0.0/98.8
+Odžak:-98.5/0.0/98.8
 Oeiras do Pará:-98.0/9.8/98.2
 Of:-98.3/-0.2/98.9
 Ogawa:-97.4/6.9/98.4
@@ -5773,7 +5773,7 @@ Pallasovka:-96.4/-1.2/92.9
 Pallattūr:-99.7/5.3/99.2
 Pallijkarani:-96.5/-0.3/99.5
 Pallikondai:-96.9/-2.1/98.6
-Pallāvaram:-98.6/-0.0/98.3
+Pallāvaram:-98.6/0.0/98.3
 Palm Beach Gardens:-99.3/0.6/97.9
 Palm Harbor:-95.4/1.0/97.2
 Palm Springs:-99.3/11.2/99.9
@@ -5858,7 +5858,7 @@ Pastos Bons:-99.7/-2.5/97.3
 Pasłęk:-98.5/-2.1/98.1
 Patharia:-99.9/0.6/99.9
 Pathrāha:-99.8/6.8/98.4
-Pati:-95.2/-0.0/98.1
+Pati:-95.2/0.0/98.1
 Patna:-99.8/3.4/99.3
 Patori:-99.0/9.8/99.9
 Patpāra:-99.9/-1.0/98.8
@@ -5936,7 +5936,7 @@ Perunkalattu:-96.2/8.6/97.0
 Peruvancha:-99.2/1.0/98.8
 Pervomaisk:-99.6/-6.7/95.6
 Pervomaiskyi:-96.9/-5.1/98.7
-Pervouralsk:-91.1/4.9/97.5
+Pervouralsk:-91.1/5.0/97.5
 Perwez:-99.2/-2.6/99.5
 Perāvūrani:-95.7/2.6/99.9
 Pescia:-99.4/-8.4/96.6
@@ -5982,7 +5982,7 @@ Phulmālik:-97.1/9.2/98.6
 Phusro:-96.9/-5.0/98.9
 Phôn-Hông:-97.6/8.4/96.5
 Phú Mỹ:-98.6/7.5/99.9
-Phủ Lý:-96.5/-9.6/88.4
+Phủ Lý:-96.5/-9.7/88.4
 Pianiga:-98.4/0.5/99.8
 Piano di Sorrento:-97.3/-0.3/99.5
 Piat:-91.2/8.7/98.4
@@ -6308,7 +6308,7 @@ Quakers Hill:-99.5/0.8/99.8
 Qualicum Beach:-99.8/-0.3/99.9
 Quanzhang:-89.0/1.2/97.7
 Quanzhou:-97.4/-8.2/97.7
-Quaregnon:-98.9/-0.0/99.6
+Quaregnon:-98.9/0.0/99.6
 Queanbeyan:-97.3/10.2/97.8
 Quedgeley:-96.9/0.9/95.5
 Queimada Nova:-99.3/-4.0/98.9
@@ -6323,7 +6323,7 @@ Quime:-99.9/12.0/99.7
 Quimperlé:-98.9/2.3/98.2
 Quinapundan:-96.2/-0.9/97.6
 Quintanar de la Orden:-99.8/-3.7/97.5
-Quisqueya:-97.4/-0.0/96.8
+Quisqueya:-97.4/0.0/96.8
 Quitandinha:-98.4/-3.3/99.8
 Quitilipi:-98.1/-0.1/94.7
 Quito:-98.9/-0.8/95.5
@@ -6508,7 +6508,7 @@ Roosendaal:-99.3/-2.6/99.1
 Roquevaire:-95.7/-3.0/98.0
 Ros Comáin:-99.5/-12.0/97.5
 Rosario:-97.0/7.4/98.1
-Rosario de Lerma:-97.1/-0.0/99.0
+Rosario de Lerma:-97.1/0.0/99.0
 Rosario del Tala:-99.7/3.1/98.2
 Rosarno:-96.4/2.6/95.3
 Roseaux:-98.4/1.4/94.3
@@ -6525,7 +6525,7 @@ Rothesay:-97.1/-4.3/97.6
 Rotorua:-98.7/-5.8/98.1
 Roubaix:-98.3/2.6/98.1
 Rouen:-99.1/4.0/99.5
-Rouyn-Noranda:-97.0/-0.0/99.2
+Rouyn-Noranda:-97.0/0.0/99.2
 Rovereto:-99.2/2.7/98.8
 Rowland Heights:-94.2/4.0/98.3
 Royal Kunia:-97.4/-5.1/98.4
@@ -6632,7 +6632,7 @@ Sahasoa:-98.5/6.3/99.3
 Sahaspur:-95.5/2.0/98.7
 Sahil:-96.7/-3.8/99.7
 Sahjanwa:-96.9/-5.2/96.6
-Sahuarita:-97.1/-0.0/99.2
+Sahuarita:-97.1/0.0/99.2
 Sai Kung Tuk:-98.1/6.2/99.0
 Saidābād:-98.6/0.5/99.1
 Saint Ann’s Bay:-98.4/5.4/96.6
@@ -6641,7 +6641,7 @@ Saint John:-98.4/2.0/98.4
 Saint Petersburg:-99.7/6.8/98.6
 Saint-Amand-Montrond:-99.0/1.5/98.8
 Saint-André:-98.9/6.6/99.4
-Saint-André-les-Vergers:-99.8/0.9/98.0
+Saint-André-les-Vergers:-99.8/1.0/98.0
 Saint-Avé:-93.6/12.1/98.6
 Saint-Barthélemy-d’Anjou:-97.5/2.1/98.8
 Saint-Benoît:-99.3/1.7/99.5
@@ -6679,7 +6679,7 @@ Saladas:-99.7/4.1/97.8
 Salaman:-99.6/4.7/98.9
 Salanso:-98.1/1.0/96.3
 Salatiga:-87.1/5.7/99.0
-Salaverry:-95.7/-0.0/99.5
+Salaverry:-95.7/0.0/99.5
 Salcedo:-92.1/8.4/93.9
 Saldanha:-98.4/-4.9/99.2
 Salem Lakes:-99.7/-3.7/98.4
@@ -6805,7 +6805,7 @@ Sandavágur:-97.0/1.6/98.8
 Sande:-99.0/4.0/99.0
 Sandhausen:-98.7/3.7/98.3
 Sandino:-96.4/-5.0/99.6
-Sandoná:-98.7/-4.5/97.2
+Sandoná:-98.7/-4.6/97.2
 Sandridge:-95.7/8.7/97.4
 Sandusky:-96.9/-6.2/97.9
 Sandīla:-99.4/3.2/98.7
@@ -6873,7 +6873,7 @@ Santa Venerina:-99.2/-6.2/99.4
 Santa Vitória do Palmar:-98.5/15.2/99.5
 Santana:-98.8/-3.9/96.2
 Santana do Manhuaçu:-99.5/-11.4/96.9
-Sante Bennūr:-94.2/5.4/95.9
+Sante Bennūr:-94.2/5.5/95.9
 Santiago Atitlán:-99.6/6.8/99.0
 Santiago Ixcuintla:-99.5/14.2/99.0
 Santiago Juxtlahuaca:-99.8/-0.5/99.9
@@ -6893,7 +6893,7 @@ Santo Domingo de los Colorados:-98.9/-3.5/93.1
 Santo Niño:-99.7/1.3/99.1
 Santo Stefano di Magra:-99.3/-2.7/99.7
 Santo Stino di Livenza:-99.4/1.1/98.8
-Santomera:-95.5/-2.7/96.5
+Santomera:-95.5/-2.8/96.5
 Santos:-93.9/-1.0/98.1
 Santoña:-93.5/-8.4/99.4
 Sant’Agata de’ Goti:-99.5/-2.0/99.3
@@ -6902,11 +6902,11 @@ Sant’Anastasia:-97.7/11.1/98.0
 Sant’Angelo Lodigiano:-98.9/5.6/99.5
 Sant’Elpidio a Mare:-99.3/-1.3/97.0
 Sanxing:-99.5/7.5/94.4
-Saoner:-99.0/-0.0/99.7
+Saoner:-99.0/0.0/99.7
 Sapa Sapa:-99.8/10.1/99.8
 Saparua:-98.6/5.1/99.5
 Sapeaçu:-99.5/-4.9/99.0
-Sapiranga:-99.3/-0.1/98.0
+Sapiranga:-99.3/-0.2/98.0
 Sapouy:-99.8/-4.8/99.2
 Sapporo:-97.9/5.6/99.6
 Sapé:-98.5/-1.9/96.3
@@ -6956,7 +6956,7 @@ Savādi:-98.5/2.9/99.8
 Sayama:-99.6/-3.4/99.6
 Sayaxché:-98.6/4.4/99.4
 Saymayl:-98.3/-5.4/97.8
-Saādatpur Aguāni:-99.1/-0.0/99.5
+Saādatpur Aguāni:-99.1/0.0/99.5
 Sa’ada:-99.1/-4.0/99.2
 Sbeitla:-96.1/-0.3/99.1
 Scafati:-96.8/-4.0/96.7
@@ -7029,7 +7029,7 @@ Sesto Calende:-99.1/-2.2/99.8
 Sestri Levante:-98.2/-4.4/95.2
 Seto:-99.7/-0.4/99.7
 Settiyārpatti:-97.2/-2.3/99.0
-Sevanagala:-98.2/-0.0/94.1
+Sevanagala:-98.2/0.0/94.1
 Seven Oaks:-99.3/1.0/99.8
 Sever do Vouga:-96.6/4.0/98.8
 Severo-Kuril’sk:-98.7/-2.6/98.5
@@ -7128,7 +7128,7 @@ Si Sa Ket:-97.7/-5.1/97.3
 Si Wilai:-98.5/-2.9/98.9
 Siasi:-98.6/-2.2/96.4
 Siayan:-98.5/5.7/99.5
-Sibaté:-99.0/-9.2/98.4
+Sibaté:-99.0/-9.3/98.4
 Sibay:-90.0/8.5/99.2
 Sibinal:-92.4/2.4/96.3
 Sibkund:-98.5/-1.1/99.8
@@ -7166,7 +7166,7 @@ Silea:-98.4/-1.2/99.2
 Sileby:-99.9/-2.1/97.9
 Siliana:-99.6/-5.1/99.3
 Siliancun:-98.8/-2.2/99.2
-Silivri:-99.9/-0.0/99.7
+Silivri:-99.9/0.0/99.7
 Sillamäe:-97.8/-5.4/98.3
 Silleda:-98.5/4.9/99.2
 Siloe:-98.6/-6.0/95.6
@@ -7314,7 +7314,7 @@ Southampton:-99.7/2.5/97.7
 Southgate:-99.5/-5.9/99.8
 Southold:-99.5/7.7/97.8
 Souto Soares:-99.4/5.3/99.4
-Sovicille:-99.2/-0.0/99.4
+Sovicille:-99.2/0.0/99.4
 Sowa Town:-99.3/-7.8/93.7
 Sowerby Bridge:-96.1/4.1/94.2
 Soweto:-99.6/-9.5/99.4
@@ -7363,7 +7363,7 @@ Starogard Gdański:-99.8/2.2/98.2
 Station des Essais M.V.A.:-98.4/0.5/96.6
 Staunton:-99.0/-8.5/92.2
 Steamboat Springs:-98.8/-14.9/99.1
-Steger:-98.0/2.2/99.7
+Steger:-98.0/2.3/99.7
 Stein:-99.8/-2.2/97.1
 Steinfurt:-98.1/-5.4/99.7
 Steinhaus:-97.7/-8.0/92.9
@@ -7466,7 +7466,7 @@ Svetlyy:-97.6/3.2/99.1
 Svilajnac:-95.8/-8.1/98.2
 Svilengrad:-98.3/10.2/98.4
 Svirsk:-95.8/-6.7/96.1
-Svrljig:-98.5/-0.0/98.8
+Svrljig:-98.5/0.0/98.8
 Svyetlahorsk:-96.5/-5.3/96.0
 Swan Hill:-97.5/-4.6/93.0
 Swarzędz:-97.9/7.7/99.8
@@ -7801,7 +7801,7 @@ Tiachiv:-98.1/-1.0/99.5
 Tibagi:-99.7/-8.0/96.9
 Tibaná:-98.4/-9.0/98.4
 Tibiao:-96.6/-9.8/97.3
-Tibri:-95.9/-0.0/97.7
+Tibri:-95.9/0.0/97.7
 Tiburon:-96.3/11.3/99.1
 Ticuantepe:-96.5/3.6/97.5
 Tietê:-96.1/9.6/98.7
@@ -7890,7 +7890,7 @@ Tolmin:-96.9/-2.4/99.2
 Toluca:-99.3/-1.6/98.2
 Tomah:-99.8/7.3/98.7
 Tomas Oppus:-99.5/5.0/98.7
-Tomaszów Lubelski:-99.1/-0.0/99.0
+Tomaszów Lubelski:-99.1/0.0/99.0
 Tomioka:-98.8/0.4/99.3
 Tomisato:-99.0/-2.9/94.2
 Toms River:-99.6/10.9/97.2
@@ -7993,7 +7993,7 @@ Tuburan:-95.2/2.8/96.8
 Tuchola:-98.6/-0.2/98.6
 Tudiyalūr:-96.8/-1.8/98.7
 Tufānganj:-99.3/5.2/92.6
-Tuktukan:-99.0/-9.3/99.1
+Tuktukan:-99.0/-9.4/99.1
 Tuku:-99.9/-11.2/99.3
 Tukums:-99.9/-2.1/99.0
 Tulare:-91.1/6.7/99.4
@@ -8107,7 +8107,7 @@ Unterföhring:-99.1/-2.7/99.1
 Unāo:-99.8/-2.9/94.1
 Upala:-98.1/1.2/98.5
 Upi:-93.9/1.6/94.1
-Upper Buchanan:-97.7/-0.0/99.3
+Upper Buchanan:-97.7/0.0/99.3
 Upper Darby:-98.2/3.0/98.7
 Upper Grand Lagoon:-96.8/2.3/94.3
 Upper Gwynedd:-97.8/1.4/98.0
@@ -8135,13 +8135,13 @@ Usmate Velate:-99.2/1.8/94.6
 Usmānpur:-96.1/-1.7/99.8
 Uspallata:-97.4/-2.8/99.4
 Uspantán:-96.9/-2.8/99.7
-Uster:-96.5/-0.0/97.4
+Uster:-96.5/0.0/97.4
 Ustrzyki Dolne:-99.2/-13.6/99.6
 Ustyuzhna:-95.6/16.1/99.3
 Ust’-Katav:-96.8/-3.4/99.7
 Ust’-Kuyga:-97.8/-3.3/99.7
 Ust’-Ordynskiy:-98.3/-8.1/93.5
-Usworth:-99.7/-0.0/96.4
+Usworth:-99.7/0.0/96.4
 Utebo:-97.5/0.9/97.8
 Uthai Thani:-98.2/8.5/99.2
 Uto:-96.5/1.2/94.8
@@ -8151,7 +8151,7 @@ Uttaramerūr:-97.5/6.3/99.3
 Uttarpāra:-98.6/-4.5/98.4
 Uusikaupunki:-97.3/2.7/99.7
 Uvalde:-95.2/7.4/98.2
-Uyar:-96.0/2.4/95.7
+Uyar:-96.0/2.5/95.7
 Uzunköprü:-99.5/0.1/96.7
 Uzynaghash:-99.7/-8.9/97.7
 Vadamadurai:-98.4/-5.2/92.8
@@ -8208,7 +8208,7 @@ Vargem Grande Paulista:-97.8/-7.1/92.7
 Varzobkala:-99.7/-1.6/98.9
 Varėna:-97.4/1.6/98.3
 Vashon:-99.5/-3.8/99.1
-Vasylkivka:-98.3/-0.0/99.6
+Vasylkivka:-98.3/0.0/99.6
 Vatlūru:-99.7/1.8/96.8
 Vatra Dornei:-99.2/-0.2/93.5
 Vecchiano:-99.4/2.2/99.9
@@ -8299,7 +8299,7 @@ Villa Hidalgo:-96.8/-7.5/99.1
 Villa La Angostura:-98.4/-1.5/97.9
 Villa Literno:-99.6/-0.6/99.5
 Villa Luzuriaga:-98.7/-0.7/99.1
-Villa Nougues:-98.5/2.9/99.7
+Villa Nougues:-98.5/3.0/99.7
 Villa Rica:-98.6/11.7/95.9
 Villa Riva:-97.5/-2.6/97.5
 Villa Sandino:-99.8/-0.3/97.3
@@ -8435,7 +8435,7 @@ Warden:-97.1/10.5/99.2
 Waregem:-98.1/-2.5/97.0
 Warendorf:-99.1/-2.0/98.6
 Warin Chamrap:-93.2/-4.9/98.7
-Warner Robins:-99.4/-0.0/99.9
+Warner Robins:-99.4/0.0/99.9
 Warrenville:-98.9/-4.2/97.2
 Warrington:-99.1/-5.9/98.6
 Wasaga Beach:-99.0/-1.1/99.4
@@ -8602,7 +8602,7 @@ Xuanzhou:-99.7/-7.4/95.3
 Xunjiansi:-99.1/3.9/99.2
 Xushan:-99.1/14.2/98.6
 Xırdalan:-99.5/-3.4/96.3
-Xızı:-99.7/-0.0/99.8
+Xızı:-99.7/0.0/99.8
 Yabrūd:-96.1/-2.7/97.6
 Yaese:-99.8/7.0/98.9
 Yaguará:-94.1/-3.6/99.3
@@ -8618,7 +8618,7 @@ Yambio:-99.4/4.8/97.9
 Yame:-97.2/-4.8/95.5
 Yampil:-97.7/3.6/97.4
 Yamunānagar:-98.6/-0.5/99.0
-Yanahuanca:-97.6/-4.2/95.3
+Yanahuanca:-97.6/-4.3/95.3
 Yanai:-98.6/3.7/96.8
 Yang Talat:-98.9/1.7/99.9
 Yangfang:-99.3/3.8/94.4
@@ -8639,7 +8639,7 @@ Yasnyy:-93.9/2.0/97.6
 Yatomi:-99.3/2.7/99.6
 Yauco:-98.9/-0.4/94.7
 Yavoriv:-98.2/-1.9/97.2
-Yavuzeli:-98.9/-0.0/98.1
+Yavuzeli:-98.9/0.0/98.1
 Yayladağı:-99.1/-0.5/96.9
 Yağlıdere:-98.5/-2.9/97.3
 Yecla:-97.6/1.2/92.9
@@ -8766,12 +8766,12 @@ Zhenzhou:-96.1/-10.8/96.8
 Zhexiang:-99.5/0.6/96.8
 Zhigansk:-99.3/-1.9/97.0
 Zhongcheng:-97.7/0.6/97.4
-Zhongliao:-98.8/-3.5/99.3
+Zhongliao:-98.8/-3.6/99.3
 Zhongzhai:-98.5/-7.1/99.2
 Zhoujia:-98.6/0.7/98.8
 Zhoujiajing:-99.3/-0.1/98.4
 Zhudong:-99.1/-10.8/98.9
-Zhuolu:-98.8/-0.0/99.7
+Zhuolu:-98.8/0.0/99.7
 Zhutang:-97.7/-11.8/95.7
 Zierikzee:-98.1/-2.2/93.3
 Ziguinchor:-99.0/-5.2/98.6
@@ -8913,7 +8913,7 @@ Zərdab:-95.6/-1.0/98.6
 ‘Afrīn:-99.4/-4.3/96.9
 ‘Alavīcheh:-99.2/-2.6/99.1
 ‘Anbarābād:-96.2/-3.2/93.1
-‘Ibrī:-99.3/-0.0/93.2
+‘Ibrī:-99.3/0.0/93.2
 ’Aïn Abessa:-95.7/-6.5/98.4
 ’Aïn Azel:-94.3/5.1/98.4
 ’Aïn Roua:-90.4/6.6/99.6

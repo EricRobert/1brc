@@ -4,19 +4,28 @@ import (
 	"bytes"
 	"fmt"
 	"io"
-	"math"
 	"os"
 	"sort"
-	"strconv"
-	"strings"
 	"syscall"
 )
 
 type station struct {
-	sum float64
+	sum int64
 	n   int
-	min float64
-	max float64
+	min int
+	max int
+}
+
+func num2str(k int) string {
+	u, d := k/10, k%10
+
+	if k >= 0 {
+		return fmt.Sprintf("%d.%d", u, d)
+	}
+
+	u = -u
+	d = -d
+	return fmt.Sprintf("-%d.%d", u, d)
 }
 
 func parse(path string, w io.Writer) {
@@ -48,34 +57,38 @@ func parse(path string, w io.Writer) {
 			break
 		}
 
-		p := string(data[a : a+b])
+		p := data[a : a+b]
 		a += b + 1
 
-		i := strings.LastIndex(p, ";")
-		if i < 0 {
-			panic("unexpected row")
+		k := 0
+		i := b - 1
+		for d := 1; p[i] != ';'; i-- {
+			if p[i] == '-' {
+				k = -k
+				continue
+			}
+
+			if p[i] != '.' {
+				k += (int(p[i]) - 0x30) * d
+				d *= 10
+			}
 		}
 
-		name, value := p[0:i], p[i+1:]
-
-		k, err := strconv.ParseFloat(value, 64)
-		if err != nil {
-			panic(err)
-		}
-
-		if k < -99.9 || k > 99.9 {
+		if k < -999 || k > 999 {
 			panic("unexpected value")
 		}
 
+		name := string(p[0:i])
+
 		if i := m[name]; i == nil {
 			m[name] = &station{
-				sum: k,
+				sum: int64(k),
 				n:   1,
 				min: k,
 				max: k,
 			}
 		} else {
-			i.sum += k
+			i.sum += int64(k)
 			i.n++
 			i.min = min(i.min, k)
 			i.max = max(i.max, k)
@@ -91,8 +104,8 @@ func parse(path string, w io.Writer) {
 
 	for _, name := range names {
 		i := m[name]
-		avg := i.sum / float64(i.n)
-		fmt.Fprintf(w, "%s:%.1f/%.1f/%.1f\n", name, i.min, math.Trunc(avg*10)/10, i.max)
+		avg := int(i.sum*10/int64(i.n)) / 10
+		fmt.Fprintf(w, "%s:%s/%s/%s\n", name, num2str(i.min), num2str(avg), num2str(i.max))
 	}
 }
 
